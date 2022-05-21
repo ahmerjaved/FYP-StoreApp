@@ -1,4 +1,4 @@
-# vendor
+# Store App
 
 A new Flutter application.
 
